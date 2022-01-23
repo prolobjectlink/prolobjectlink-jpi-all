@@ -5,6 +5,7 @@ io.github.prolobjectlink.prolog.jpl.swi
 io.github.prolobjectlink.prolog.jpl.yap
 io.github.prolobjectlink.prolog.jpl7
 io.github.prolobjectlink.prolog.jtrolog
+io.github.prolobjectlink.prolog.spi
 io.github.prolobjectlink.prolog.tuprolog
 jTrolog.engine
 jTrolog.errors
