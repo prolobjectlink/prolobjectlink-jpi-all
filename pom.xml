@@ -196,7 +196,9 @@
 					<acceptPomPackaging>true</acceptPomPackaging>
 					<licenseName>mit</licenseName>
 					<addJavaLicenseAfterPackage>false</addJavaLicenseAfterPackage>
-					<roots><root>src/assembly</root><root>src/changes</root>
+					<roots>
+						<root>src/assembly</root>
+						<root>src/changes</root>
 						<root>src/main</root>
 						<root>src/test</root>
 						<root>src/site</root>
@@ -464,6 +466,20 @@
 						<include>**/src/**/*.vm</include>
 						<include>**/src/**/*.xml</include>
 					</includes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5.3</version>
+				<configuration>
+					<mavenHome>../apache-maven</mavenHome>
+					<goals>deploy -P release</goals>
+					<preparationGoals>clean install site</preparationGoals>
+					<allowTimestampedSnapshots>true</allowTimestampedSnapshots>
+					<tagNameFormat>v-@{project.version}</tagNameFormat>
+					<useReleaseProfile>false</useReleaseProfile>
+					<remoteTagging>false</remoteTagging>
 				</configuration>
 			</plugin>
 		</plugins>
