@@ -120,7 +120,7 @@
 		<!-- <module>../prolobjectlink-jpi-ip</module> -->
 		<!-- <module>../prolobjectlink-jpi-ip-swi</module> -->
 		<!-- <module>../prolobjectlink-jpi-ip-xsb</module> -->
-		<!-- <module>../prolobjectlink-jpi-jekpro</module> -->
+		<module>../prolobjectlink-jpi-jekpro</module>
 		<!-- <module>../prolobjectlink-jpi-jiprolog</module> -->
 		<module>../prolobjectlink-jpi-jlog</module>
 		<module>../prolobjectlink-jpi-jpl</module>
