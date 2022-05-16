@@ -117,7 +117,7 @@
 		<!-- Prolobjectlink Java Prolog Interface -->
 		<module>../prolobjectlink-jpi</module>
 		<!-- <module>../prolobjectlink-jpi-eclipse</module> -->
-		<!-- <module>../prolobjectlink-jpi-ip</module> -->
+		<module>../prolobjectlink-jpi-ip</module>
 		<!-- <module>../prolobjectlink-jpi-ip-swi</module> -->
 		<!-- <module>../prolobjectlink-jpi-ip-xsb</module> -->
 		<module>../prolobjectlink-jpi-jekpro</module>
