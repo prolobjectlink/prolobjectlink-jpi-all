@@ -8,8 +8,8 @@
     <language>en-us</language>
     <copyright>&#169;2020 - 2022 Prolobjectlink Project</copyright>
     <item>
-      <title>File: 2590,
-             Errors: 42233,
+      <title>File: 2576,
+             Errors: 41863,
              Warnings: 0,
              Infos: 0
       </title>
@@ -296,20 +296,6 @@
                           <tr>
                 <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#in.java.jTrolog.engine.Solution.java">in/java/jTrolog/engine/Solution.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#.prolobjectlink.prolog.PrologThread.java">/prolobjectlink/prolog/PrologThread.java</a>
                 </td>
                 <td>
                   0
@@ -3347,20 +3333,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#thub.prolobjectlink.prolog.PrologThread.java">thub/prolobjectlink/prolog/PrologThread.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ub.prolobjectlink.prolog.PrologScriptEngineFactory.java">ub/prolobjectlink/prolog/PrologScriptEngineFactory.java</a>
                 </td>
                 <td>
@@ -5574,20 +5546,6 @@
                           <tr>
                 <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#.github.prolobjectlink.prolog.interprolog.InterPrologInteger.java">/github/prolobjectlink/prolog/interprolog/InterPrologInteger.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#.prolobjectlink.prolog.PrologThreadPool.java">/prolobjectlink/prolog/PrologThreadPool.java</a>
                 </td>
                 <td>
                   0
@@ -9857,20 +9815,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ub.prolobjectlink.prolog.PrologThreadPool.java">ub/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ava.io.github.prolobjectlink.prolog.tuprolog.TuPrologIndicator.java">ava/io/github/prolobjectlink/prolog/tuprolog/TuPrologIndicator.java</a>
                 </td>
                 <td>
@@ -12461,20 +12405,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#io.github.prolobjectlink.prolog.PrologThreadPool.java">io/github/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ub.prolobjectlink.prolog.PrologQuery.java">ub/prolobjectlink/prolog/PrologQuery.java</a>
                 </td>
                 <td>
@@ -13819,20 +13749,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#io.github.prolobjectlink.prolog.PrologThread.java">io/github/prolobjectlink/prolog/PrologThread.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ithub.prolobjectlink.prolog.StructureExpectedError.java">ithub/prolobjectlink/prolog/StructureExpectedError.java</a>
                 </td>
                 <td>
@@ -14730,20 +14646,6 @@
                           <tr>
                 <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#.prolobjectlink.prolog.PrologError.java">/prolobjectlink/prolog/PrologError.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#github.prolobjectlink.prolog.PrologThread.java">github/prolobjectlink/prolog/PrologThread.java</a>
                 </td>
                 <td>
                   0
@@ -16082,7 +15984,7 @@
                   0
                 </td>
                 <td>
-                  76
+                  47
                 </td>
               </tr>
                           <tr>
@@ -16615,20 +16517,6 @@
                 </td>
                 <td>
                   9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ub.prolobjectlink.prolog.PrologThread.java">ub/prolobjectlink/prolog/PrologThread.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
               </tr>
                           <tr>
@@ -18742,7 +18630,7 @@
                   0
                 </td>
                 <td>
-                  572
+                  530
                 </td>
               </tr>
                           <tr>
@@ -22975,20 +22863,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#b.prolobjectlink.prolog.PrologThreadPool.java">b/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#jTrolog.terms.Int.java">jTrolog/terms/Int.java</a>
                 </td>
                 <td>
@@ -23353,20 +23227,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#thub.prolobjectlink.prolog.PrologThreadPool.java">thub/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#java.io.github.prolobjectlink.prolog.tuprolog.TuPrologEngine.java">java/io/github/prolobjectlink/prolog/tuprolog/TuPrologEngine.java</a>
                 </td>
                 <td>
@@ -23405,20 +23265,6 @@
                 </td>
                 <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ithub.prolobjectlink.prolog.PrologThread.java">ithub/prolobjectlink/prolog/PrologThread.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  79
                 </td>
               </tr>
                           <tr>
@@ -28305,20 +28151,6 @@
                 </td>
                 <td>
                   45
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#github.prolobjectlink.prolog.PrologThreadPool.java">github/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
               </tr>
                           <tr>
@@ -33447,20 +33279,6 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#b.prolobjectlink.prolog.PrologThread.java">b/prolobjectlink/prolog/PrologThread.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ithub.prolobjectlink.prolog.jpl.JplParser.java">ithub/prolobjectlink/prolog/jpl/JplParser.java</a>
                 </td>
                 <td>
@@ -33947,20 +33765,6 @@
                 </td>
                 <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/prolobjectlink/prolobjectlink-jpi-all/checkstyle.html#ithub.prolobjectlink.prolog.PrologThreadPool.java">ithub/prolobjectlink/prolog/PrologThreadPool.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  109
                 </td>
               </tr>
                           <tr>
@@ -34590,7 +34394,7 @@
                   0
                 </td>
                 <td>
-                  781
+                  670
                 </td>
               </tr>
                           <tr>
