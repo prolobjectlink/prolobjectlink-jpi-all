@@ -128,6 +128,7 @@
 		<module>../prolobjectlink-jpi-jpl-yap</module>
 		<module>../prolobjectlink-jpi-jpl7</module>
 		<module>../prolobjectlink-jpi-jtrolog</module>
+		<!-- <module>../prolobjectlink-jpi-projog</module> -->
 		<module>../prolobjectlink-jpi-tuprolog</module>
 
 	</modules>
