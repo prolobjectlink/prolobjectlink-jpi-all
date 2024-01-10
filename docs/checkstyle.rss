@@ -6,10 +6,10 @@
     <link>https://github.com/prolobjectlink/prolobjectlink-jpi-all</link>
     <description>prolobjectlink-jpi-all - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;2020 - 2023 Prolobjectlink Project</copyright>
+    <copyright>&#169;2020 - 2024 Prolobjectlink Project</copyright>
     <item>
       <title>File: 2583,
-             Errors: 42084,
+             Errors: 42283,
              Warnings: 0,
              Infos: 0
       </title>
@@ -16978,7 +16978,7 @@
                   0
                 </td>
                 <td>
-                  520
+                  525
                 </td>
               </tr>
                           <tr>
@@ -31636,7 +31636,7 @@
                   0
                 </td>
                 <td>
-                  18
+                  163
                 </td>
               </tr>
                           <tr>
@@ -32056,7 +32056,7 @@
                   0
                 </td>
                 <td>
-                  422
+                  471
                 </td>
               </tr>
                           <tr>
